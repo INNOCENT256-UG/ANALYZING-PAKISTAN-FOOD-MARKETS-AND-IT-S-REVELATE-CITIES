@@ -1,0 +1,13 @@
+# PK Foods Price Intelligence — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data visualization
+matplotlib>=3.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional: Enhanced styling
+seaborn>=0.12.0
+
+# Optional: Interactive charts (for future enhancements)
+# plotly>=5.14.0
