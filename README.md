@@ -1,4 +1,4 @@
-# PK Foods Price Intelligence Dashboard
+# PK Foods Price Intelligence 
 
 ## Business Context
 
@@ -125,59 +125,7 @@ This project includes enhanced chart generation with business-oriented titles, c
 └── 📄 README.md                              ← Project documentation
 ```
 
----
-
-## 🚀 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/INNOCENT256-UG/Excel--Analystics-Demo.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd Excel_Analystics
-   ```
-
-3. **Open the core dataset:**
-   - Open `PK_FOOD_PRICE_PER_KG-project1.xlsx` in Microsoft Excel (2016 or later recommended)
-   - Enable macros and data connections if prompted
-
-4. **Access supporting workbooks:**
-   - Open individual analysis files as needed for deeper insights
-   - All files are cross-referenced and can be used independently
-
----
-
-## 📊 Generating Improved Visualizations
-
-This project includes Python scripts to generate enhanced charts with business-oriented titles, consistent color schemes, and improved data visualization best practices.
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip package manager
-
-### Installation
-
-```bash
-# Install required dependencies
-pip install -r requirements.txt
 ```
-
-### Generate Charts
-
-```bash
-# Run the chart generation script
-python generate_charts.py
-```
-
-This will generate the following improved visualizations:
-- `Chart_Revenue_by_City_v2.png` — Horizontal bar chart with gradient colors and data labels
-- `Chart_Price_by_Category_v2.png` — Horizontal bar chart with three-tier color coding
-- `Chart_KPI_Cards_v2.png` — Visual representation of KPI card layout
-- `Chart_Price_Volatility_v2.png` — Error bar chart showing price ranges by category
-- `Chart_Revenue_Concentration_v2.png` — Pareto chart showing revenue distribution
 
 ### Chart Specifications
 
