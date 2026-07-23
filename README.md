@@ -57,24 +57,6 @@ This project includes enhanced chart generation with business-oriented titles, c
 ![KPI Cards](Chart_KPI_Cards_v2.png)
 
 > **Design Approach:** Six KPI cards organized in a 3x2 grid with visual hierarchy — Total Revenue (primary), Total Records and Avg Price/Kg (secondary), and city/item metrics (tertiary). Each card uses color-coded borders for quick identification.
-
----
-
-### Original Dashboard Preview
-
-#### Main Dashboard — PK Foods Price Intelligence
-
-![PK Foods Dashboard](Pk_Food_project_dashboard.png)
-
-> The main dashboard displays KPI cards (Total Records, Revenue, Avg Price/Kg), revenue breakdown by city, and average price by category in a dark-themed, professional layout.
-
-#### Revenue by City & Category Distribution
-
-![Revenue & Category Charts](Chart_Data.png)
-
-> **Left:** Bar chart comparing total revenue (PKR) across all 10 cities — Hyderabad leads at PKR 1.6M.  
-> **Right:** Pie chart showing average price distribution by food category — Beverage and Meat hold the largest shares.
-
 ---
 
 ## ✨ Features
