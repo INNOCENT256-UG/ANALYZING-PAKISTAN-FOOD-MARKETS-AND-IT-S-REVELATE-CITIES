@@ -1,4 +1,4 @@
-# PK Foods Price Intelligence Dashboard
+# PK Foods Price Intelligence 
 
 ## Business Context
 
@@ -12,11 +12,7 @@ The resulting insights help stakeholders understand where food commodities are o
 
 The dashboard follows executive briefing principles: KPI cards provide immediate situational awareness, city and category analyses are separated for focused decision-making, and visual hierarchy guides viewers from high-level metrics to detailed breakdowns. All charts are designed to answer specific business questions with clear titles, reference lines for context, and consistent formatting for rapid comprehension.
 
-For a detailed technical review of chart effectiveness, visualization improvements, and design recommendations, see [DASHBOARD_REVIEW.md](DASHBOARD_REVIEW.md).
-
----
-
-## 📊 Improved Visualizations
+## 📊 Visualizations
 
 This project includes enhanced chart generation with business-oriented titles, consistent color schemes, and improved data visualization best practices.
 
@@ -57,24 +53,6 @@ This project includes enhanced chart generation with business-oriented titles, c
 ![KPI Cards](Chart_KPI_Cards_v2.png)
 
 > **Design Approach:** Six KPI cards organized in a 3x2 grid with visual hierarchy — Total Revenue (primary), Total Records and Avg Price/Kg (secondary), and city/item metrics (tertiary). Each card uses color-coded borders for quick identification.
-
----
-
-### Original Dashboard Preview
-
-#### Main Dashboard — PK Foods Price Intelligence
-
-![PK Foods Dashboard](Pk_Food_project_dashboard.png)
-
-> The main dashboard displays KPI cards (Total Records, Revenue, Avg Price/Kg), revenue breakdown by city, and average price by category in a dark-themed, professional layout.
-
-#### Revenue by City & Category Distribution
-
-![Revenue & Category Charts](Chart_Data.png)
-
-> **Left:** Bar chart comparing total revenue (PKR) across all 10 cities — Hyderabad leads at PKR 1.6M.  
-> **Right:** Pie chart showing average price distribution by food category — Beverage and Meat hold the largest shares.
-
 ---
 
 ## ✨ Features
@@ -102,111 +80,6 @@ This project includes enhanced chart generation with business-oriented titles, c
 
 ---
 
-## 📁 Project Structure
-
-```
-📁 Excel_Analystics/
-│
-├── 📊 PK_FOOD_PRICE_PER_KG-project1.xlsx     ← Core dataset (1,100 records)
-├── 📊 Source_Market_Survey_PK.xlsx           ← Raw market survey data
-│
-├── 📈 chart_data.xlsx                        ← Chart source data
-├── 📈 City_Coverage_Performance.xlsx         ← City-level performance metrics
-├── 📈 Monthly_KPI_tracker.xlsx               ← Monthly KPI tracking
-│
-├── 🔍 gap_Analysis.xlsx                      ← Price gap & market gap analysis
-├── 🔍 Price_Level.xlsx                       ← Price level classification
-├── 🔍 Price_Review_per_Kg.xlsx               ← Per-kg price review breakdown
-├── 🔍 Volatility_of_price_in_PK_FOOD_PRICE.xlsx ← Price volatility analysis
-│
-├── 🖼️ Pk_Food_project_dashboard.png          ← Dashboard screenshot
-├── 🖼️ Chart_Data.png                         ← Revenue & category charts
-│
-└── 📄 README.md                              ← Project documentation
-```
-
----
-
-## 🚀 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/INNOCENT256-UG/Excel--Analystics-Demo.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd Excel_Analystics
-   ```
-
-3. **Open the core dataset:**
-   - Open `PK_FOOD_PRICE_PER_KG-project1.xlsx` in Microsoft Excel (2016 or later recommended)
-   - Enable macros and data connections if prompted
-
-4. **Access supporting workbooks:**
-   - Open individual analysis files as needed for deeper insights
-   - All files are cross-referenced and can be used independently
-
----
-
-## 📊 Generating Improved Visualizations
-
-This project includes Python scripts to generate enhanced charts with business-oriented titles, consistent color schemes, and improved data visualization best practices.
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip package manager
-
-### Installation
-
-```bash
-# Install required dependencies
-pip install -r requirements.txt
-```
-
-### Generate Charts
-
-```bash
-# Run the chart generation script
-python generate_charts.py
-```
-
-This will generate the following improved visualizations:
-- `Chart_Revenue_by_City_v2.png` — Horizontal bar chart with gradient colors and data labels
-- `Chart_Price_by_Category_v2.png` — Horizontal bar chart with three-tier color coding
-- `Chart_KPI_Cards_v2.png` — Visual representation of KPI card layout
-- `Chart_Price_Volatility_v2.png` — Error bar chart showing price ranges by category
-- `Chart_Revenue_Concentration_v2.png` — Pareto chart showing revenue distribution
-
-### Chart Specifications
-
-For detailed color palettes, typography standards, and implementation guidelines, see:
-- [visualization_style_guide.md](visualization_style_guide.md) — Complete style guide with color codes and chart specifications
-- [DASHBOARD_REVIEW.md](DASHBOARD_REVIEW.md) — Comprehensive analysis of dashboard effectiveness and improvement recommendations
-
----
-
-## 💻 Usage
-
-### Viewing the Dashboard
-1. Open `PK_FOOD_PRICE_PER_KG-project1.xlsx`
-2. Navigate to the "Dashboard" sheet
-3. Interact with pivot tables and charts to explore data
-
-### Exploring Analysis Files
-- **City Coverage Performance** — Review city-by-city revenue and status
-- **Monthly KPI Tracker** — Track price trends over time
-- **Gap Analysis** — Identify pricing inefficiencies across markets
-- **Price Volatility** — Analyze statistical price fluctuations
-- **Price Level** — View item classifications by price tier
-
-### Data Refresh
-- Source data is in `Source_Market_Survey_PK.xlsx`
-- Update the core dataset and refresh pivot tables to incorporate new data
-
----
-
 ## 🏆 Key Metrics
 
 | Metric | Value |
@@ -217,8 +90,6 @@ For detailed color palettes, typography standards, and implementation guidelines
 | 🏆 Top Revenue City | **Hyderabad** — PKR 1,608,801 |
 | 🐟 Most Expensive Item | **Fish (Pomfret)** — PKR 1,113/kg avg |
 | 📊 Items Priced Above Avg | 29.9% |
-
----
 
 ## 🏙️ Revenue by City (PKR)
 
@@ -235,8 +106,6 @@ For detailed color palettes, typography standards, and implementation guidelines
 | Multan | 1,114,521 | 8.3% | 325.3 | ✅ ACTIVE |
 | Peshawar | 1,032,082 | 7.7% | 338.3 | ⚠️ LOWEST |
 | **TOTAL** | **13,423,064** | **100%** | — | — |
-
----
 
 ## 🥩 Average Price by Category (PKR/Kg)
 
@@ -263,7 +132,6 @@ For detailed color palettes, typography standards, and implementation guidelines
 - ⚠️ **Peshawar** has the lowest total revenue and average price per kg — a potential under-served market
 - 📊 Nearly **30% of items** are priced above the national average, indicating significant price dispersion
 
----
 
 ## 🔮 Future Improvements
 
@@ -303,7 +171,26 @@ For detailed color palettes, typography standards, and implementation guidelines
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:watsala.digital@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INNOCENT256-UG)
 
----
+---## 💻 Usage
+
+### Viewing the Dashboard
+1. Open `PK_FOOD_PRICE_PER_KG-project1.xlsx`
+2. Navigate to the "Dashboard" sheet
+3. Interact with pivot tables and charts to explore data
+
+### Exploring Analysis Files
+- **City Coverage Performance** — Review city-by-city revenue and status
+- **Monthly KPI Tracker** — Track price trends over time
+- **Gap Analysis** — Identify pricing inefficiencies across markets
+- **Price Volatility** — Analyze statistical price fluctuations
+- **Price Level** — View item classifications by price tier
+
+### Data Refresh
+- Source data is in `Source_Market_Survey_PK.xlsx`
+- Update the core dataset and refresh pivot tables to incorporate new data
+- Inspired by real-world food price monitoring systems used by government and NGOs
+
+
 
 ## 📄 License
 
@@ -315,14 +202,27 @@ This project is licensed under the MIT License — feel free to use and modify f
 
 - Data sourced from Pakistan market surveys and ground-level price collections
 - Built as a portfolio project demonstrating Excel analytics and dashboard design capabilities
-- Inspired by real-world food price monitoring systems used by government and NGOs
 
----
 
-<div align="center">
-  <i>"Every dataset tells a story. My job is to find it."</i>
-</div>
+## 📁 Project Structure
 
----
-
-*Last updated: 2025 | Data covers 10 major Pakistani cities | 1,100 price records analyzed*
+```
+📁 Excel_Analystics/
+│
+├── 📊 PK_FOOD_PRICE_PER_KG-project1.xlsx     ← Core dataset (1,100 records)
+├── 📊 Source_Market_Survey_PK.xlsx           ← Raw market survey data
+│
+├── 📈 chart_data.xlsx                        ← Chart source data
+├── 📈 City_Coverage_Performance.xlsx         ← City-level performance metrics
+├── 📈 Monthly_KPI_tracker.xlsx               ← Monthly KPI tracking
+│
+├── 🔍 gap_Analysis.xlsx                      ← Price gap & market gap analysis
+├── 🔍 Price_Level.xlsx                       ← Price level classification
+├── 🔍 Price_Review_per_Kg.xlsx               ← Per-kg price review breakdown
+├── 🔍 Volatility_of_price_in_PK_FOOD_PRICE.xlsx ← Price volatility analysis
+│
+├── 🖼️ Pk_Food_project_dashboard.png          ← Dashboard screenshot
+├── 🖼️ Chart_Data.png                         ← Revenue & category charts
+│
+└── 📄 README.md                              ← Project documentation
+```
