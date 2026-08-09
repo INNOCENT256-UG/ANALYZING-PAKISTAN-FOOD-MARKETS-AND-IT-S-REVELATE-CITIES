@@ -1,3 +1,4 @@
+🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
 ![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
 ## Business Context
 
