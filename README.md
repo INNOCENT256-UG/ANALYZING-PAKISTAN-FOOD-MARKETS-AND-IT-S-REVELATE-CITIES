@@ -1,3 +1,4 @@
+![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
 ## Business Context
 
 Food price volatility directly impacts household budgets, retail pricing strategies, and supply chain planning across Pakistan's urban markets. Procurement teams, policy makers, and retailers struggle with fragmented price data—unable to benchmark fair pricing, identify market anomalies, or make evidence-based expansion decisions.
@@ -5,8 +6,6 @@ Food price volatility directly impacts household budgets, retail pricing strateg
 This project addresses that gap by consolidating 1,100 price records from 10 major Pakistani cities into a structured analytical framework. The dashboard transforms raw market survey data into actionable insights that drive pricing strategy, supply chain optimization, and market expansion decisions.
 
 The resulting insights help stakeholders understand where food commodities are overpriced or underpriced relative to national averages, which cities present the highest revenue potential, and which categories pose supply chain risk through price volatility.
-
-![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
 
 ## 🎯 **Who Benefits From This Analysis?**
 
