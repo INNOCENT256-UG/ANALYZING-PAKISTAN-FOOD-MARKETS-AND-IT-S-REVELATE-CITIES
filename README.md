@@ -50,14 +50,12 @@ This project includes enhanced chart generation with business-oriented titles, c
 > **Strategic Implication:** 10x price differential between premium (Beverages) and commodity (Vegetables) suggests distinct supply chains and margin profiles. Premium categories show pricing power; commodity categories show margin compression.
 
 ### Price Volatility by Category
-
-![Price Volatility](Chart_Price_Volatility_v2.png)
-
 > **Business Question:** Which categories have the most price instability?
 > 
 > **Key Insight:** Pulses show the highest price range (PKR 154), indicating significant market volatility. Premium categories (Beverages, Meat, Oil) show wider price ranges than affordable categories, reflecting supply chain complexity at premium tiers.
 > 
 > **Strategic Implication:** Pulses volatility signals supply shock risk—requires forward contracting or alternative sourcing. Vegetable stability indicates reliable supply but lower margins.
+![Chart_Price_Volatility](Charts/Chart_Price_Volatility.png)
 
 ### Revenue Concentration — Pareto Analysis
 
