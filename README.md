@@ -32,9 +32,9 @@ The dashboard follows executive briefing principles: KPI cards provide immediate
 
 This project includes enhanced chart generation with business-oriented titles, consistent color schemes, and improved data visualization best practices.
 
-### Revenue by City — Horizontal Bar Chart
+### Revenue by City 
 
-![Revenue by City](Chart_Revenue_by_City_v2.png)
+![Revenue by City](Chart_Revenue_by_City.png)
 
 > **Business Question:** Which cities generate the most revenue?
 > 
