@@ -6,7 +6,7 @@ This project addresses that gap by consolidating 1,100 price records from 10 maj
 
 The resulting insights help stakeholders understand where food commodities are overpriced or underpriced relative to national averages, which cities present the highest revenue potential, and which categories pose supply chain risk through price volatility.
 
-![Chart_KPI_Cards.png](Chart_KPI_Cards.png)
+![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
 
 ## 🎯 **Who Benefits From This Analysis?**
 
