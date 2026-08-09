@@ -1,5 +1,3 @@
-# PK Foods Price Intelligence 
-
 ## Business Context
 
 Food price volatility directly impacts household budgets, retail pricing strategies, and supply chain planning across Pakistan's urban markets. Procurement teams, policy makers, and retailers struggle with fragmented price data—unable to benchmark fair pricing, identify market anomalies, or make evidence-based expansion decisions.
@@ -8,7 +6,7 @@ This project addresses that gap by consolidating 1,100 price records from 10 maj
 
 The resulting insights help stakeholders understand where food commodities are overpriced or underpriced relative to national averages, which cities present the highest revenue potential, and which categories pose supply chain risk through price volatility.
 
----
+![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
 
 ## 🎯 **Who Benefits From This Analysis?**
 
@@ -32,53 +30,39 @@ The dashboard follows executive briefing principles: KPI cards provide immediate
 
 This project includes enhanced chart generation with business-oriented titles, consistent color schemes, and improved data visualization best practices.
 
-### Revenue by City — Horizontal Bar Chart
-
-![Revenue by City](Chart_Revenue_by_City_v2.png)
-
+### Revenue by City 
 > **Business Question:** Which cities generate the most revenue?
 > 
 > **Key Insight:** Hyderabad leads at PKR 1.6M (12.0% share), while Peshawar generates the lowest revenue at PKR 1.0M (7.7% share). The chart uses a gradient color scheme from emerald (highest) to amber (lowest), enabling quick identification of top performers and underperforming markets.
 > 
 > **Strategic Implication:** 27% revenue spread across cities signals geographic pricing variance—either driven by logistics costs or market structure differences. Peshawar underperformance requires investigation: market gap or profitability gap?
 
+![Chart_Revenue_by_City](Charts/Chart_Revenue_by_City.png)
+
 ### Average Price by Category — Horizontal Bar Chart
-
-![Price by Category](Chart_Price_by_Category_v2.png)
-
 > **Business Question:** Which food categories are most expensive?
 > 
 > **Key Insight:** Beverages command the highest average price at PKR 912/kg, followed by Meat (PKR 848/kg) and Oil (PKR 722/kg). Vegetables are the most affordable at PKR 95/kg. The chart uses the same gradient scheme, highlighting pricing tiers for supply chain and retail strategy.
 > 
 > **Strategic Implication:** 10x price differential between premium (Beverages) and commodity (Vegetables) suggests distinct supply chains and margin profiles. Premium categories show pricing power; commodity categories show margin compression.
+![Chart_Price_by_Category.png](Charts/Chart_Price_by_Category.png)
 
 ### Price Volatility by Category
-
-![Price Volatility](Chart_Price_Volatility_v2.png)
-
 > **Business Question:** Which categories have the most price instability?
 > 
 > **Key Insight:** Pulses show the highest price range (PKR 154), indicating significant market volatility. Premium categories (Beverages, Meat, Oil) show wider price ranges than affordable categories, reflecting supply chain complexity at premium tiers.
 > 
 > **Strategic Implication:** Pulses volatility signals supply shock risk—requires forward contracting or alternative sourcing. Vegetable stability indicates reliable supply but lower margins.
+![Chart_Price_Volatility](Charts/Chart_Price_Volatility.png)
 
 ### Revenue Concentration — Pareto Analysis
-
-![Revenue Concentration](Chart_Revenue_Concentration_v2.png)
-
 > **Business Question:** What percentage of revenue comes from top cities?
 > 
 > **Key Insight:** Top 3 cities (Hyderabad, Karachi, Islamabad) account for 33% of total revenue, indicating moderate market concentration. The Pareto chart combines bar and line visualization to highlight the 80/20 principle in market structure—showing both absolute contribution and cumulative share.
 > 
 > **Strategic Implication:** 33% concentration suggests a balanced portfolio with meaningful opportunity in Tier-2 cities (Faisalabad, Rawalpindi, Lahore). Expansion strategy should target mid-tier cities, not just top metros.
 
-### KPI Cards Layout
-
-![KPI Cards](Chart_KPI_Cards_v2.png)
-
-> **Design Approach:** Six KPI cards organized in a 3x2 grid with visual hierarchy — Total Revenue (primary), Total Records and Avg Price/Kg (secondary), and city/item metrics (tertiary). Each card includes color coding and status indicators for quick executive scanning.
-
----
+![Chart_Revenue_Concentration.png](Charts/Chart_Revenue_Concentration.png)
 
 ## ✨ Features
 
