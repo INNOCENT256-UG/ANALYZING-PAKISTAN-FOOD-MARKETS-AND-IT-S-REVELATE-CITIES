@@ -58,22 +58,13 @@ This project includes enhanced chart generation with business-oriented titles, c
 ![Chart_Price_Volatility](Charts/Chart_Price_Volatility.png)
 
 ### Revenue Concentration — Pareto Analysis
-
-![Revenue Concentration](Chart_Revenue_Concentration_v2.png)
-
 > **Business Question:** What percentage of revenue comes from top cities?
 > 
 > **Key Insight:** Top 3 cities (Hyderabad, Karachi, Islamabad) account for 33% of total revenue, indicating moderate market concentration. The Pareto chart combines bar and line visualization to highlight the 80/20 principle in market structure—showing both absolute contribution and cumulative share.
 > 
 > **Strategic Implication:** 33% concentration suggests a balanced portfolio with meaningful opportunity in Tier-2 cities (Faisalabad, Rawalpindi, Lahore). Expansion strategy should target mid-tier cities, not just top metros.
 
-### KPI Cards Layout
-
-![KPI Cards](Chart_KPI_Cards_v2.png)
-
-> **Design Approach:** Six KPI cards organized in a 3x2 grid with visual hierarchy — Total Revenue (primary), Total Records and Avg Price/Kg (secondary), and city/item metrics (tertiary). Each card includes color coding and status indicators for quick executive scanning.
-
----
+![Chart_Revenue_Concentration.png](Charts/Chart_Revenue_Concentration.png)
 
 ## ✨ Features
 
