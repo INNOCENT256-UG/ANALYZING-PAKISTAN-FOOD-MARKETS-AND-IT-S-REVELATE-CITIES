@@ -40,14 +40,12 @@ This project includes enhanced chart generation with business-oriented titles, c
 ![Chart_Revenue_by_City](Charts/Chart_Revenue_by_City.png)
 
 ### Average Price by Category — Horizontal Bar Chart
-
-![Price by Category](Chart_Price_by_Category_v2.png)
-
 > **Business Question:** Which food categories are most expensive?
 > 
 > **Key Insight:** Beverages command the highest average price at PKR 912/kg, followed by Meat (PKR 848/kg) and Oil (PKR 722/kg). Vegetables are the most affordable at PKR 95/kg. The chart uses the same gradient scheme, highlighting pricing tiers for supply chain and retail strategy.
 > 
 > **Strategic Implication:** 10x price differential between premium (Beverages) and commodity (Vegetables) suggests distinct supply chains and margin profiles. Premium categories show pricing power; commodity categories show margin compression.
+![Chart_Price_by_Category.png](Charts/Chart_Price_by_Category.png)
 
 ### Price Volatility by Category
 > **Business Question:** Which categories have the most price instability?
