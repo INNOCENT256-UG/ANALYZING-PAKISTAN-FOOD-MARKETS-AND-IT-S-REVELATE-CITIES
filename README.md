@@ -1,5 +1,3 @@
-# PK Foods Price Intelligence 
-
 ## Business Context
 
 Food price volatility directly impacts household budgets, retail pricing strategies, and supply chain planning across Pakistan's urban markets. Procurement teams, policy makers, and retailers struggle with fragmented price data—unable to benchmark fair pricing, identify market anomalies, or make evidence-based expansion decisions.
@@ -8,7 +6,7 @@ This project addresses that gap by consolidating 1,100 price records from 10 maj
 
 The resulting insights help stakeholders understand where food commodities are overpriced or underpriced relative to national averages, which cities present the highest revenue potential, and which categories pose supply chain risk through price volatility.
 
----
+![Chart_KPI_Cards.png](Chart_KPI_Cards.png)
 
 ## 🎯 **Who Benefits From This Analysis?**
 
@@ -33,14 +31,13 @@ The dashboard follows executive briefing principles: KPI cards provide immediate
 This project includes enhanced chart generation with business-oriented titles, consistent color schemes, and improved data visualization best practices.
 
 ### Revenue by City 
-
-![Chart_Revenue_by_City](Charts/Chart_Revenue_by_City.png)
-
 > **Business Question:** Which cities generate the most revenue?
 > 
 > **Key Insight:** Hyderabad leads at PKR 1.6M (12.0% share), while Peshawar generates the lowest revenue at PKR 1.0M (7.7% share). The chart uses a gradient color scheme from emerald (highest) to amber (lowest), enabling quick identification of top performers and underperforming markets.
 > 
 > **Strategic Implication:** 27% revenue spread across cities signals geographic pricing variance—either driven by logistics costs or market structure differences. Peshawar underperformance requires investigation: market gap or profitability gap?
+
+![Chart_Revenue_by_City](Charts/Chart_Revenue_by_City.png)
 
 ### Average Price by Category — Horizontal Bar Chart
 
