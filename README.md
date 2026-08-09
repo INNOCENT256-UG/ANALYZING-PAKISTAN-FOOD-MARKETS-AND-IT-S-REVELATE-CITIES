@@ -34,7 +34,7 @@ This project includes enhanced chart generation with business-oriented titles, c
 
 ### Revenue by City 
 
-![Chart_Revenue_by_City])Charts/Chart_Revenue_by_City.png)
+![Chart_Revenue_by_City](Charts/Chart_Revenue_by_City.png)
 
 > **Business Question:** Which cities generate the most revenue?
 > 
