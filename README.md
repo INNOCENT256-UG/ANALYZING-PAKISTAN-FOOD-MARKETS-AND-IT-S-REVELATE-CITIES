@@ -1,4 +1,13 @@
 
+This project addresses that gap by consolidating 1,100 price records from 10 major Pakistani cities into a structured analytical framework. The dashboard transforms raw market survey data into actionable insights that drive pricing strategy, supply chain optimization, and market expansion decisions.
+
+## Business Context
+Food price volatility directly impacts household budgets, retail pricing strategies, and supply chain planning across Pakistan's urban markets. Procurement teams, policy makers, and retailers struggle with fragmented price data—unable to benchmark fair pricing, identify market anomalies, or make evidence-based expansion decisions.
+The resulting insights help stakeholders understand where food commodities are overpriced or underpriced relative to national averages, which cities present the highest revenue potential, and which categories pose supply chain risk through price volatility.
+
+🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
+![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -13,6 +22,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -21,17 +33,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Last Updated](https://img.shields.io/badge/Updated-[Month_Year]-blue?style=flat-square)
 
-
-
-🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
-![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
-## Business Context
-
-Food price volatility directly impacts household budgets, retail pricing strategies, and supply chain planning across Pakistan's urban markets. Procurement teams, policy makers, and retailers struggle with fragmented price data—unable to benchmark fair pricing, identify market anomalies, or make evidence-based expansion decisions.
-
-This project addresses that gap by consolidating 1,100 price records from 10 major Pakistani cities into a structured analytical framework. The dashboard transforms raw market survey data into actionable insights that drive pricing strategy, supply chain optimization, and market expansion decisions.
-
-The resulting insights help stakeholders understand where food commodities are overpriced or underpriced relative to national averages, which cities present the highest revenue potential, and which categories pose supply chain risk through price volatility.
 
 ## 🎯 **Who Benefits From This Analysis?**
 
