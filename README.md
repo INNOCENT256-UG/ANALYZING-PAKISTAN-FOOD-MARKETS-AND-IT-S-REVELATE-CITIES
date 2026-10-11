@@ -31,7 +31,7 @@ The resulting insights help stakeholders understand where food commodities are o
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Updated-[October_2026]-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Updated-October_2026-blue?style=flat-square)
 
 
 ## 🎯 **Who Benefits From This Analysis?**
