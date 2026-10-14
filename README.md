@@ -1,10 +1,12 @@
 ## PK - FOOD MARKET AND CITIES ANALYSIS
+
 ![Chart_KPI_Cards](Charts/Chart_KPI_Cards.png)
-🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
 
 ## Project Overview
 
 This project addresses that gap by consolidating 1,100 price records from 10 major Pakistani cities into a structured analytical framework. The dashboard transforms raw market survey data into actionable insights that drive pricing strategy, supply chain optimization, and market expansion decisions.
+
+🔗 [GitHub Profile](https://github.com/INNOCENT256-UG) | 📊 [Portfolio](https://github.com/INNOCENT256-UG?tab=repositories)
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
