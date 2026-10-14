@@ -1,3 +1,6 @@
+PK - FOOD MARKET AND CITIES ANALYSIS
+
+## Project Overview
 
 This project addresses that gap by consolidating 1,100 price records from 10 major Pakistani cities into a structured analytical framework. The dashboard transforms raw market survey data into actionable insights that drive pricing strategy, supply chain optimization, and market expansion decisions.
 
